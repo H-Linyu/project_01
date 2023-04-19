@@ -1,4 +1,5 @@
 window.onload = function () {
   console.log(1);
   console.log("什么是答案？")
+  console.log("答案都是人定的")
 };
